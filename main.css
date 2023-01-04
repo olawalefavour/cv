@@ -1,0 +1,16 @@
+<style>
+    .link-1{text-decoration:none;}
+    .continue-button{color:white;background:#ff8800;width:290px;height: 40px;font-weight:bold;border: none;border-radius: 5px;font-size:20px ;
+    margin: 30px;}
+    .phone-button{width: 180px;height: 20px;margin: 5px;margin: 15px;}
+    .select{height: 30px;width: 60px;margin: 25px;}
+    .heading-1{margin:45px;}
+    .subheading-1{font-weight:bold;margin: 45px;}
+    .link-1{font-weight:bold;color:#ff8800;margin: 45px;text-decoration:none;}
+    .index{color:red;text-decoration:none;font-weight:bold;}
+    .footer{color: black;font-weight:bold;margin: 45px;}
+   th, td {
+  border: 1px solid black;
+border-collapse:collapse;border-radius: 10px;}  
+th,td {background-color:blue;color:white;}
+</style>
